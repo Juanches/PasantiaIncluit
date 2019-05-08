@@ -25,7 +25,7 @@ public class InstruccionWhile {
 		{
 			System.out.println ("el valor de x es " +x);
 			x= (x*2) + 3;
-			System.out.println("Este es una prueba de Mel");
+			System.out.println("Este es una prueba de Mel2");
 			}	
 	}
 
